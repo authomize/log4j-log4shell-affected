@@ -16,6 +16,8 @@ i.e. software components you might have used in building your products that you 
 
 [Compromised apps with confirmation](https://github.com/YfryTchsGD/Log4jAttackSurface)
 
+[List of responses from various vendors, some affected and some not](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592)
+
 
 ## Contributing
 We are happy to recieve contributions from the community. 
