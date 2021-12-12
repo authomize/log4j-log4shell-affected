@@ -5,9 +5,11 @@ We are happy to recieve contributions from the community. Please make sure to ed
 
 
 [Affected Apps](https://github.com/authomize/log4j-log4shell-affected/blob/master/affected_apps.md)
-
-
 [Affected Components](https://github.com/authomize/log4j-log4shell-affected/blob/master/affected_components.md)
+
+
+
+
 
 
 Other useful resources:
