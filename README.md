@@ -1,10 +1,12 @@
 # log4j-log4shell-affected
 Lists of affected components and affected apps/vendors by CVE-2021-44228 (aka Log4shell or Log4j RCE) for security responders. 
 
-[Affected Apps](https://github.com/authomize/log4j-log4shell-affected/blob/master/affected_apps.md)
+#### [Affected Apps](https://github.com/authomize/log4j-log4shell-affected/blob/master/affected_apps.md)
+
 i.e. all vendors you should worry about if you have data in their environemnt or if they access to your environment
 
-[Affected Components](https://github.com/authomize/log4j-log4shell-affected/blob/master/affected_components.md)
+#### [Affected Components](https://github.com/authomize/log4j-log4shell-affected/blob/master/affected_components.md)
+
 i.e. software components you might have used in building your products that you should worry if they cause you to be vulnerable 
  
 
