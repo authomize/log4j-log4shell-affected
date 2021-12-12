@@ -24,6 +24,6 @@ We are happy to recieve contributions from the community. Please make sure to ed
 
 Other useful resources:
 
-[Artifacts using log4j](https://mvnrepository.com/artifact/log4j/log4j/usages?p=1)
+[Artifacts using log4j](https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core)
 
 [Compromised apps with confirmation](https://github.com/YfryTchsGD/Log4jAttackSurface)
