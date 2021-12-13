@@ -11,12 +11,20 @@ i.e. software components you might have used in building your products that you 
  
 
 ## Other useful resources
+### Lists
 
 [Artifacts using log4j](https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core)
 
 [Compromised apps with confirmation](https://github.com/YfryTchsGD/Log4jAttackSurface)
 
 [List of responses from various vendors, some affected and some not](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592)
+
+
+### Guides how to repsond
+
+[A fast and simple guide on what to do to respond to the log4j incident](https://www.authomize.com/blog/authomizes-response-and-mitigation-guide-to-the-log4shell-vulnerability/)
+
+[General incident response guide in case you discover a 3rd party vendor of yours got hacked](https://resources.panorays.com/hubfs/assets/The_Third-Party_Incident_Response_Playbook.pdf)
 
 
 ## Contributing
