@@ -33,5 +33,15 @@ Contribution guidelines:
 - Please make a PR editing the raw CSV files. 
 - Please be sure to include a reference source for each added row (claims without a validated link for source of claim will not be accepted)
 
+
+## About this repo
+This repo is maintained to simplify response for enterprises and organizations by separating between:
+1. Internal risk - Software components you need to search for and patch in your products / internal environment
+2. External risk - Third and fourth-party vendors/apps who might've been affected and you should to monitor if your data is in their custody
+
+This list is a community project open for everyone to contribute to and is curated by:
+![Authomize Logo](https://www.authomize.com/wp-content/uploads/2021/12/github-banner-authomize.png)
+
+
 ## Our favorite description of the situation
-![image](https://user-images.githubusercontent.com/57227377/145719037-d8fe4303-7d50-41ea-919f-1e7f525f8680.png)
+![Meme](https://user-images.githubusercontent.com/57227377/145719037-d8fe4303-7d50-41ea-919f-1e7f525f8680.png)
