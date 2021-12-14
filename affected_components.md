@@ -1,5 +1,4 @@
 ###Affected components
-
 | Vendor         | App                          | source                                                                                                                                                    |
 |----------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Apache         | Apache Dubbo                 | https://therecord.media/log4j-zero-day-gets-security-fix-just-as-scans-for-vulnerable-systems-ramp-up/                                                    |
@@ -46,4 +45,8 @@
 | Lucent Sky     | Lucent Sky AVM On-Demand     | https://twitter.com/LucentSky/status/1469358706311974914                                                                                                  |
 | Lucent Sky     | Lucent Sky managed instances | https://twitter.com/LucentSky/status/1469358706311974914                                                                                                  |
 | Logstash       | logstash                     | https://github.com/elastic/logstash/pull/13494                                                                                                            |
+| Amazon         | EC2                          | https://aws.amazon.com/security/security-bulletins/AWS-2021-005/                                                                                          |
+| Amazon         | AWS Lambda                   | https://aws.amazon.com/security/security-bulletins/AWS-2021-005/                                                                                          |
+| Amazon         | AWS CloudHSM                 | https://aws.amazon.com/security/security-bulletins/AWS-2021-005/                                                                                          |
+| Microsoft      | Azure Data lake store java   | https://github.com/Azure/azure-data-lake-store-java/blob/ed5d6304783286c3cfff0a1dee457a922e23ad48/CHANGES.md#version-2310                                 |
 |                |                              |                                                                                                                                                           |
