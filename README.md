@@ -1,11 +1,17 @@
 # log4j-log4shell-affected
 Lists of affected components and affected apps/vendors by CVE-2021-44228 (aka Log4shell or Log4j RCE) for security responders. 
 
-#### [Affected Apps](https://github.com/authomize/log4j-log4shell-affected/blob/master/affected_apps.md)
+We believe it is important to classify the vendors and products between:
+1. Internal risk - what you need to patch first to remove risk internally
+2. External risk - all third/fourth-party vendors that have custody of your data that might've been hacked that you will need to monitor and tackle once you're done patching
+
+### Here are the lists:
+
+#### [External Risk - Affected Apps](https://github.com/authomize/log4j-log4shell-affected/blob/master/affected_apps.md)
 
 i.e. all vendors you should worry about if you have data in their environemnt or if they access to your environment
 
-#### [Affected Components](https://github.com/authomize/log4j-log4shell-affected/blob/master/affected_components.md)
+#### [Internal Risk - Affected Components](https://github.com/authomize/log4j-log4shell-affected/blob/master/affected_components.md)
 
 i.e. software components you might have used in building your products that you should worry if they cause you to be vulnerable 
  
@@ -18,6 +24,10 @@ i.e. software components you might have used in building your products that you 
 [Compromised apps with confirmation](https://github.com/YfryTchsGD/Log4jAttackSurface)
 
 [List of responses from various vendors, some affected and some not](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592)
+
+[Official list maintained by CISA - US Govt](https://github.com/cisagov/log4j-affected-db)
+
+[Official list maintained by NCSC - NL govt, high update frequency](https://github.com/NCSC-NL/log4shell/tree/main/software)
 
 
 ### Guides how to repsond
