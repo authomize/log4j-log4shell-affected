@@ -152,3 +152,51 @@
 | Nutanix           | Sizer                                                      | https://download.nutanix.com/alerts/Security_Advisory_0023.pdf                                                                                                      |
 | Nutanix           | Insights                                                   | https://download.nutanix.com/alerts/Security_Advisory_0023.pdf                                                                                                      |
 | NewRelic          | NewRelic monitoring                                        | https://discuss.newrelic.com/t/log4j-zero-day-vulnerability-and-the-new-relic-java-agent/170322/4                                                                                             |
+| Micro Focus | ArcSight ESM                               | https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228 |
+| Micro Focus | ArcSight Logger                            | https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228 |
+| Micro Focus | ArcSight Recon                             | https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44228 |
+| Micro Focus | ArcSight Intelligence                      | https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44229 |
+| Micro Focus | ArcSight Connectors                        | https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44230 |
+| Micro Focus | ArcSight Transformation Hub                | https://community.microfocus.com/cyberres/b/sws-22/posts/summary-of-cyberres-impact-from-log4j-or-logshell-logjam-cve-2021-44231 |
+| Philips     | IntelliBridge Enterprise                   | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | IntelliSite Pathology Solution 5.1         | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | IntelliSpace PACS                          | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | IntelliSpace Precision Medicine            | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | Pathology De-identifier 1.0                | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | Performance Bridge                         | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | Pinnacle                                   | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | Protocol Applications                      | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | RIS Clinic                                 | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | Scanner Protocol Manager                   | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | Tasy EMR                                   | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | Universal Data Manager (UDM)               | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Philips     | VuePACS                                    | https://www.philips.com/a-w/security/security-advisories.html                                                                    |
+| Ruckus      | FlexMaster                                 | https://support.ruckuswireless.com/security_bulletins/313                                                                        |
+| Ruckus      | SmartZone 100 (SZ-100)                     | https://support.ruckuswireless.com/security_bulletins/314                                                                        |
+| Ruckus      | SmartZone 144 (SZ-144)                     | https://support.ruckuswireless.com/security_bulletins/315                                                                        |
+| Ruckus      | SmartZone 300 (SZ-300)                     | https://support.ruckuswireless.com/security_bulletins/316                                                                        |
+| Ruckus      | Unleashed                                  | https://support.ruckuswireless.com/security_bulletins/317                                                                        |
+| Ruckus      | Virtual SmartZone (vSZ)                    | https://support.ruckuswireless.com/security_bulletins/318                                                                        |
+| Unify       | First Response OpenScape Policy Store      | https://networks.unify.com/security/advisories/OBSO-2112-01.pdf                                                                  |
+| Unify       | Hipath DS-Win                              | https://networks.unify.com/security/advisories/OBSO-2112-01.pdf                                                                  |
+| Unify       | OpenScape Contact Center                   | https://networks.unify.com/security/advisories/OBSO-2112-01.pdf                                                                  |
+| Unify       | OpenScape Contact Media Service            | https://networks.unify.com/security/advisories/OBSO-2112-01.pdf                                                                  |
+| Unify       | OpenScape UC                               | https://networks.unify.com/security/advisories/OBSO-2112-01.pdf                                                                  |
+| Unify       | OpenScape Voice                            | https://networks.unify.com/security/advisories/OBSO-2112-01.pdf                                                                  |
+| WSO2        | WSO2 API Manager                           | https://docs.wso2.com/pages/viewpage.action?pageId=180948677                                                                     |
+| WSO2        | WSO2 API Manager Analytics                 | https://docs.wso2.com/pages/viewpage.action?pageId=180948677                                                                     |
+| WSO2        | WSO2 Enterprise Integrator                 | https://docs.wso2.com/pages/viewpage.action?pageId=180948678                                                                     |
+| WSO2        | WSO2 Enterprise Integrator Analytics       | https://docs.wso2.com/pages/viewpage.action?pageId=180948679                                                                     |
+| WSO2        | WSO2 Identity Server                       | https://docs.wso2.com/pages/viewpage.action?pageId=180948680                                                                     |
+| WSO2        | WSO2 Identity Server Analytics             | https://docs.wso2.com/pages/viewpage.action?pageId=180948681                                                                     |
+| WSO2        | WSO2 Identity Server as Key Manager        | https://docs.wso2.com/pages/viewpage.action?pageId=180948682                                                                     |
+| WSO2        | WSO2 Micro Gateway                         | https://docs.wso2.com/pages/viewpage.action?pageId=180948683                                                                     |
+| WSO2        | WSO2 Micro Integrator                      | https://docs.wso2.com/pages/viewpage.action?pageId=180948684                                                                     |
+| WSO2        | WSO2 Micro Integrator Dashboard            | https://docs.wso2.com/pages/viewpage.action?pageId=180948685                                                                     |
+| WSO2        | WSO2 Micro Integrator Monitoring Dashboard | https://docs.wso2.com/pages/viewpage.action?pageId=180948686                                                                     |
+| WSO2        | WSO2 Stream Processor                      | https://docs.wso2.com/pages/viewpage.action?pageId=180948687                                                                     |
+| WSO2        | WSO2 Stream Integrator                     | https://docs.wso2.com/pages/viewpage.action?pageId=180948688                                                                     |
+| WSO2        | WSO2 Stream Integrator Tooling             | https://docs.wso2.com/pages/viewpage.action?pageId=180948689                                                                     |
+| WSO2        | WSO2 Open Banking AM                       | https://docs.wso2.com/pages/viewpage.action?pageId=180948690                                                                     |
+| WSO2        | WSO2 Open Banking BI                       | https://docs.wso2.com/pages/viewpage.action?pageId=180948691                                                                     |
+| WSO2        | WSO2 Open Banking KM                       | https://docs.wso2.com/pages/viewpage.action?pageId=180948692                                                                     |
