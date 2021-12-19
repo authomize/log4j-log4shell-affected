@@ -200,3 +200,4 @@
 | WSO2        | WSO2 Open Banking AM                       | https://docs.wso2.com/pages/viewpage.action?pageId=180948690                                                                     |
 | WSO2        | WSO2 Open Banking BI                       | https://docs.wso2.com/pages/viewpage.action?pageId=180948691                                                                     |
 | WSO2        | WSO2 Open Banking KM                       | https://docs.wso2.com/pages/viewpage.action?pageId=180948692                                                                     |
+| Salesforce  | Salesforce Data Loader                     | https://www.salesforceben.com/salesforce-products-hit-by-log4j2-security-flaw/
